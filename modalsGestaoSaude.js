@@ -4,9 +4,6 @@ var myModal = FLUIGC.modal({
     content: '<h1>Modal Content</h1>',
     id: 'fluig-modal',
     actions: [{
-        'label': 'Save',
-        'bind': 'data-open-modal',
-    },{
         'label': 'Close',
         'autoClose': true
     }]
@@ -24,9 +21,6 @@ var myModal = FLUIGC.modal({
     content: '<h1>Modal Content</h1>',
     id: 'fluig-modal',
     actions: [{
-        'label': 'Save',
-        'bind': 'data-open-modal',
-    },{
         'label': 'Close',
         'autoClose': true
     }]
@@ -44,9 +38,6 @@ var myModal = FLUIGC.modal({
     content: '<h1>Modal Content</h1>',
     id: 'fluig-modal',
     actions: [{
-        'label': 'Save',
-        'bind': 'data-open-modal',
-    },{
         'label': 'Close',
         'autoClose': true
     }]
@@ -64,9 +55,6 @@ var myModal = FLUIGC.modal({
     content: '<h1>Modal Content</h1>',
     id: 'fluig-modal',
     actions: [{
-        'label': 'Save',
-        'bind': 'data-open-modal',
-    },{
         'label': 'Close',
         'autoClose': true
     }]
@@ -84,9 +72,6 @@ var myModal = FLUIGC.modal({
     content: '<h1>Modal Content</h1>',
     id: 'fluig-modal',
     actions: [{
-        'label': 'Save',
-        'bind': 'data-open-modal',
-    },{
         'label': 'Close',
         'autoClose': true
     }]
@@ -104,9 +89,6 @@ var myModal = FLUIGC.modal({
     content: '<h1>Modal Content</h1>',
     id: 'fluig-modal',
     actions: [{
-        'label': 'Save',
-        'bind': 'data-open-modal',
-    },{
         'label': 'Close',
         'autoClose': true
     }]
@@ -124,9 +106,6 @@ var myModal = FLUIGC.modal({
     content: '<h1>Modal Content</h1>',
     id: 'fluig-modal',
     actions: [{
-        'label': 'Save',
-        'bind': 'data-open-modal',
-    },{
         'label': 'Close',
         'autoClose': true
     }]
